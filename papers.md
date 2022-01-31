@@ -16,8 +16,6 @@ A list of seminal papers on distributed systems
 - [Spanner: Google’s Globally-Distributed Database](papers/spanner.pdf)
 
 
-### More
-
 Some additional papers on managing complexity in software
 
 - [Out of the Tar Pit](papers/tar_pit.pdf)
