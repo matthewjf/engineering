@@ -1,2 +1,3 @@
-# engineering
-An assortment of useful resources
+# Engineering
+
+An assortment of useful resources.
