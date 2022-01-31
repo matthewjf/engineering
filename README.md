@@ -8,3 +8,4 @@ An assortment of useful resources.
 1. [Talks](talks.md)
 1. [Papers](papers.md)
 1. [Interviews](interviews.md)
+1. [Other](other.md)
