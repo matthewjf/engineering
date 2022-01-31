@@ -2,9 +2,11 @@
 
 # Designing a distributed Job Scheduler
 
-####
 
-Functional requirements (can vary but I assume the following):
+
+## Functional requirements
+
+These can vary but let's assume the following:
 
 A job can be scheduled for one time or multiple executions (cron job) by other services/microservices
 For each job a class can be specified which inherits some interface like IJob so that we can later call that interface method on the worker nodes when we execute the job. (That class can e.g. be present in a .jar file on the worker nodes).
@@ -17,7 +19,7 @@ Reliability: Jobs must not be executed much later than expected or dropped -> we
 Availability: It should always be possible to schedule and execute jobs -> (dynamical) horizontal scaling
 Jobs must not be executed multiple times (or such occurences should be kept to a minimum)
 
-####
+---
 
 ## Domain Analysis: Concepts
 
@@ -38,7 +40,7 @@ Executor:
 
 The multiplicity between Job and Trigger: Job--1-------*--Trigger (A Job can have multiple Triggers)
 
-####
+---
 
 ## High Level Design
 
@@ -83,13 +85,13 @@ We use Message Queues (here Kafka which is more of an (append) log than a Queue 
 - We can throttle/limit the number of messages the consumers process (see Backpressure)
 - Kafka offers message ordering
 
-####
+---
 
 ## Other Issues and Concerns
 
 Unreliable Clocks/Time: In a distributed system we have unreliable clocks and time (due to unbounded delays when requesting NTP time because we are using packet-switched networks and usually not circuit-switched ones), unreliable NTP servers, Quartz Clocks that develop an offset, etc). When we want to schedule Jobs reliably and execute them at the right time, clocks and time play an important role. We therefore need to make sure that the times on the nodes are synchronized and don't differ too much. One way to achieve that is to use multiple NTP servers and filter out those that deviate much. Another more reliable but costly way is to use Atomic Clocks in the Data Center(s).
 
-####
+---
 
 ## Final Words
 
