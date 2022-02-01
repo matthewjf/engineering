@@ -141,25 +141,25 @@ And last but not least here are some numbers I used to reference quite often. Th
 
 Many people seem to have had trouble digging up the material I have referenced in my previous posts. Here is the list:
 
-DDIA - https://dataintensive.net/buy.html
-Grokking - https://www.educative.io/courses/grokking-the-system-design-interview
-Nathan Bronson's Tao: https://www.usenix.org/conference/atc13/technical-sessions/presentation/bronson
-Nishtala's memcache: https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/nishtala
-Kulkarni's Facebook live: https://www.youtube.com/watch?v=IO4teCbHvZw
-Aroskar's Zuul push: https://www.youtube.com/watch?v=6w6E_B55p0E
-NALSD on Google SRE book: https://sre.google/workbook/non-abstract-design/
-Krikorian's timelines at scale: https://www.infoq.com/presentations/Twitter-Timeline-Scalability/
-Cassandra's capacity planning guidelines by datastax: https://docs.datastax.com/en/dse-planning/doc/planning/capacityPlanning.html
-Youtube guy: https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ
+- DDIA - https://dataintensive.net/buy.html
+- Grokking - https://www.educative.io/courses/grokking-the-system-design-interview
+- Nathan Bronson's Tao: https://www.usenix.org/conference/atc13/technical-sessions/presentation/bronson
+- Nishtala's memcache: https://www.usenix.org/conference/nsdi13/technical-sessions/presentation/nishtala
+- Kulkarni's Facebook live: https://www.youtube.com/watch?v=IO4teCbHvZw
+- Aroskar's Zuul push: https://www.youtube.com/watch?v=6w6E_B55p0E
+- NALSD on Google SRE book: https://sre.google/workbook/non-abstract-design/
+- Krikorian's timelines at scale: https://www.infoq.com/presentations/Twitter-Timeline-Scalability/
+- Cassandra's capacity planning guidelines by datastax: https://docs.datastax.com/en/dse-planning/doc/planning/capacityPlanning.html
+- Youtube guy: https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ
 
 ===== Extra mile stuff ====
 
-Check Bronson's TAO pdf paper in same link as video
-Check Nishtala's pdf paper in same link as video
-Lamport's ordering paper: https://lamport.azurewebsites.net/pubs/time-clocks.pdf
-Paxos (simpler version, not the greek parliament metaphor version): https://www.microsoft.com/en-us/research/publication/paxos-made-simple/
-Raft: http://thesecretlivesofdata.com/raft/ and also http://kanaka.github.io/raft.js/
-Dynamo: https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html
+- Check Bronson's TAO pdf paper in same link as video
+- Check Nishtala's pdf paper in same link as video
+- Lamport's ordering paper: https://lamport.azurewebsites.net/pubs/time-clocks.pdf
+- Paxos (simpler version, not the greek parliament metaphor version): https://www.microsoft.com/en-us/research/publication/paxos-made-simple/
+- Raft: http://thesecretlivesofdata.com/raft/ and also http://kanaka.github.io/raft.js/
+- Dynamo: https://www.allthingsdistributed.com/2007/10/amazons_dynamo.html
 
 ### Content
 
