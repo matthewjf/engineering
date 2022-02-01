@@ -190,13 +190,12 @@ Now the next 15 minutes need to be spent going deep in some component until you 
 As I mentioned earlier, keep it neutral. No jokes, funny drawings and other crap like that.
 
 So to recap:
-5 - intro (keep it short, you'll need every minute you can get)
-5 - clarifications on the question
-5 - initial back of envelope calcs
-10-high-level design
-15-deep stuff+sizing calcs+closing overarching comments
-5-questions from you (as long as you don't ask completely dumb questions, you should be fine)
----
-45 minutes
+- 5 - intro (keep it short, you'll need every minute you can get)
+- 5 - clarifications on the question
+- 5 - initial back of envelope calcs
+- 10 - high-level design
+- 15 - deep stuff+sizing calcs+closing overarching comments
+- 5 - questions from you (as long as you don't ask completely dumb questions, you should be fine)
+- 45 minutes total
 
 Some interviewers will give you some extra minute but don't count on that. Prepare to be sharp on time.
