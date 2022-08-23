@@ -7,7 +7,8 @@
 - [x] Refactoring: Improving the Design of Existing Code (Martin Fowler)
 - [x] Design Patterns: Elements of Reusable Object-Oriented Software (Erich Gamma, John Vlissides, Richard Helm, Ralph Johnson)
 - [x] The Pragmatic Programmer (Andy Hunt, Dave Thomas)
-- [ ] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (Martin Kleppmann)
+- [x] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (Martin Kleppmann)
+- [ ] Site Reliability Engineering
 
 ## Organization
 
