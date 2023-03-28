@@ -11,5 +11,5 @@ Some useful talks in distributed systems
 - [x] [The Anatomy of a Distributed System (Fastly)](https://www.youtube.com/watch?v=1TIzPL4878Q)
 - [x] [Stability Patterns & Antipatterns - Nygard](https://www.youtube.com/watch?v=VZePNGQojfA)
 - [x] [Timelines at Scale (Twitter)](https://www.infoq.com/presentations/Twitter-Timeline-Scalability/)
-- [ ] [Scaling Push Messaging for Millions of Devices (Netflix)](https://www.youtube.com/watch?v=6w6E_B55p0E)
+- [x] [Scaling Push Messaging for Millions of Devices (Netflix)](https://www.youtube.com/watch?v=6w6E_B55p0E)
 - [ ] [Co-Designing Raft + Thread-per-Core Execution Model for the Kafka-API](https://www.youtube.com/watch?v=kz7R1mGrN9Q)
