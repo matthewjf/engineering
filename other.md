@@ -17,3 +17,8 @@ Additional resources
 - [x] [Test Properties](https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3) *(<cite>Kent Beck</cite>)*
 - [x] [Outcome > Impact > Output](https://medium.com/@kentbeck_7670/outcome-over-output-also-impact-and-effort-8f9eb0ce0dbb) *(<cite>Kent Beck</cite>)*
 - [x] [Dimensions of Autonomy](https://medium.com/@kentbeck_7670/dimensions-of-autonomy-89c2fda1e571) *(<cite>Kent Beck</cite>)*
+
+## Blogs
+
+- [Irrational Exuberance](https://lethain.com/)
+- [Kent Beck](https://medium.com/@kentbeck_7670)
