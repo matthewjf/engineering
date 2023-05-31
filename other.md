@@ -29,3 +29,5 @@ Additional resources
 
 - [Irrational Exuberance](https://lethain.com/)
 - [Kent Beck](https://medium.com/@kentbeck_7670)
+- [Tidy First?](https://tidyfirst.substack.com/)
+- [Charity Majors](https://charity.wtf/)
