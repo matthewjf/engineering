@@ -21,7 +21,6 @@ Additional resources
 - [x] [Pair Programming](https://martinfowler.com/articles/on-pair-programming.html) *(<cite>Martin Fowler</cite>)*
 - [x] [Writing an engineering strategy](https://lethain.com/eng-strategies/) *(<cite>Will Larson</cite>)*
 - [x] [Culture vs systems](https://lethain.com/culture-vs-systems/) *(<cite>Will Larson</cite>)*
-- [x] [Test Properties](https://medium.com/@kentbeck_7670/test-desiderata-94150638a4b3) *(<cite>Kent Beck</cite>)*
 - [x] [Thinking About Code Reviews](https://tidyfirst.substack.com/p/thinking-about-code-review) *(<cite>Kent Beck</cite>)*
 - [x] [Design Play at Work](https://tidyfirst.substack.com/p/design-play-at-work) *(<cite>Kent Beck</cite>)*
 
