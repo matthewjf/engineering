@@ -6,10 +6,11 @@ Additional resources
 
 - [x] [Livable Code](https://www.youtube.com/watch?v=lI77oMKr5EY) *(<cite>Sarah Mei</cite>)*
 - [x] [3x](https://www.youtube.com/watch?v=OW1J61jg-3U) *(<cite>Kent Beck</cite>)*
-- [x] [Tidy First](https://www.youtube.com/watch?v=BFFY9Zor6zw) *(<cite>Kent Beck</cite>)*
+- [x] [Tidy First?](https://www.youtube.com/watch?v=BFFY9Zor6zw) *(<cite>Kent Beck</cite>)*
 - [x] [Kanban vs Scrum](https://www.youtube.com/watch?v=fjeVFxL9MQA) *(<cite>Dave Farley</cite>)*
 - [x] [Event Driven Architecture](https://www.youtube.com/watch?v=STKCRSUsyP0) *(<cite>Martin Fowler</cite>)*
 - [x] [Refactoring](https://www.youtube.com/watch?v=6wDoopbtEqk) *(<cite>Martin Fowler</cite>)*
+- [x] [High-Performing Teams and Software Development Death Spiral](https://www.youtube.com/watch?v=wKBuEOaFiNQ) *(<cite>Charity Majors</cite>)*
 
 ## Posts
 
