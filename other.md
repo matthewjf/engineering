@@ -19,6 +19,8 @@ Additional resources
 - [x] [Outcome > Impact > Output](https://medium.com/@kentbeck_7670/outcome-over-output-also-impact-and-effort-8f9eb0ce0dbb) *(<cite>Kent Beck</cite>)*
 - [x] [Dimensions of Autonomy](https://medium.com/@kentbeck_7670/dimensions-of-autonomy-89c2fda1e571) *(<cite>Kent Beck</cite>)*
 - [x] [Pair Programming](https://martinfowler.com/articles/on-pair-programming.html) *(<cite>Martin Fowler</cite>)*
+- [x] [Writing an engineering strategy](https://lethain.com/eng-strategies/) *(<cite>Will Larson</cite>)*
+- [x] [Culture vs systems](https://lethain.com/culture-vs-systems/) *(<cite>Will Larson</cite>)*
 
 ## Blogs
 
