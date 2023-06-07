@@ -11,3 +11,4 @@ A list of thought leaders that have impacted my work in a meaningful way
 - Sandi Metz
 - Dave Thomas
 - Leslie Lamport
+- Charity Majors
