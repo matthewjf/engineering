@@ -15,3 +15,6 @@
 
 > when a measure becomes a target, it ceases to be a good measure.
 > — <cite>Goodhart's Law</cite>
+
+> [Feeling comfortable is the system blinking orange](https://charity.wtf/#:~:text=Feeling%20comfortable%20is%20the%20system%20blinking%20orange)
+> — <cite>Charity Majors</cite>
