@@ -23,4 +23,4 @@
 > — <cite>Charity Majors</cite>
 
 > The purpose of design is to allow you to do design later and its primary goal is to reduce the cost of change.
-> - <cite>Sandi Metz</cite>
+> — <cite>Sandi Metz</cite>
