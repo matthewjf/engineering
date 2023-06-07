@@ -13,6 +13,7 @@ Additional resources
 - [x] [Culture vs systems](https://lethain.com/culture-vs-systems/) *(<cite>Will Larson</cite>)*
 - [x] [Thinking About Code Reviews](https://tidyfirst.substack.com/p/thinking-about-code-review) *(<cite>Kent Beck</cite>)*
 - [x] [Design Play at Work](https://tidyfirst.substack.com/p/design-play-at-work) *(<cite>Kent Beck</cite>)*
+- [x] [The Hierarchy is Bullshit (And Bad For Business)](https://charity.wtf/2022/09/23/the-hierarchy-is-bullshit-and-bad-for-business/) *(<cite>Charity Majors</cite>)*
 
 ## Blogs
 
