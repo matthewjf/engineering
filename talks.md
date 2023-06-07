@@ -1,6 +1,6 @@
 # Talks
 
-Some useful talks in distributed systems
+## Distributed Systems
 
 - [x] [How Slack Works](https://www.youtube.com/watch?v=WE9c9AZe-DY)
 - [x] [Scaling Slack](https://www.youtube.com/watch?v=o4f5G9q_9O4)
