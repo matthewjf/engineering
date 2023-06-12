@@ -18,6 +18,10 @@ Additional resources
 - [x] [Why "Empirical"?](https://tidyfirst.substack.com/p/why-empirical) *(<cite>Kent Beck</cite>)*
 - [x] [Magnitudes of exploration](https://lethain.com/magnitudes-of-exploration/) *(<cite>Will Larson</cite>)*
 - [x] [Abstract vs. Concrete Parameters](https://tidyfirst.substack.com/p/abstract-vs-concrete-parameters) *(<cite>Kent Beck</cite>)*
+- [x] [Staying on the path to high performing teams](https://lethain.com/durably-excellent-teams/) *(<cite>Will Larson</cite>)*
+- [x] [Managing technical quality in a codebase](https://lethain.com/managing-technical-quality/) *(<cite>Will Larson</cite>)*
+- [x] [Migrations: the sole scalable fix to tech debt](https://lethain.com/migrations/) *(<cite>Will Larson</cite>)*
+- [x] [The Grand Migration](https://lethain.com/grand-migration/) *(<cite>Will Larson</cite>)*
 
 ## Blogs
 
