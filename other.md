@@ -17,6 +17,7 @@ Additional resources
 - [x] [Live Your Best Life With Structured Events](https://charity.wtf/2022/08/15/live-your-best-life-with-structured-events/) *(<cite>Charity Majors</cite>)*
 - [x] [Why "Empirical"?](https://tidyfirst.substack.com/p/why-empirical) *(<cite>Kent Beck</cite>)*
 - [x] [Magnitudes of exploration](https://lethain.com/magnitudes-of-exploration/) *(<cite>Will Larson</cite>)*
+- [x] [Abstract vs. Concrete Parameters](https://tidyfirst.substack.com/p/abstract-vs-concrete-parameters) *(<cite>Kent Beck</cite>)*
 
 ## Blogs
 
