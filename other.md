@@ -16,6 +16,7 @@ Additional resources
 - [x] [The Hierarchy is Bullshit (And Bad For Business)](https://charity.wtf/2022/09/23/the-hierarchy-is-bullshit-and-bad-for-business/) *(<cite>Charity Majors</cite>)*
 - [x] [Live Your Best Life With Structured Events](https://charity.wtf/2022/08/15/live-your-best-life-with-structured-events/) *(<cite>Charity Majors</cite>)*
 - [x] [Why "Empirical"?](https://tidyfirst.substack.com/p/why-empirical) *(<cite>Kent Beck</cite>)*
+- [x] [Magnitudes of exploration](https://lethain.com/magnitudes-of-exploration/) *(<cite>Will Larson</cite>)*
 
 ## Blogs
 
