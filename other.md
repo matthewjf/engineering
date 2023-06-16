@@ -25,6 +25,7 @@ Additional resources
 - [x] [Domain Oriented Observability](https://martinfowler.com/articles/domain-oriented-observability.html) *(<cite>Martin Fowler</cite>)*
 - [x] [Humble Object](https://martinfowler.com/bliki/HumbleObject.html) *(<cite>Martin Fowler</cite>)*
 - [x] [Refinement Code Review](https://martinfowler.com/bliki/RefinementCodeReview.html) *(<cite>Martin Fowler</cite>)*
+- [x] [Staying on the path to high performing teams](https://lethain.com/durably-excellent-teams/) *(<cite>Will Larson</cite>)*
 
 ## Blogs
 
