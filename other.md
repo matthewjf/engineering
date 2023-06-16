@@ -29,3 +29,4 @@ Additional resources
 - [Kent Beck](https://medium.com/@kentbeck_7670)
 - [Tidy First?](https://tidyfirst.substack.com/)
 - [Charity Majors](https://charity.wtf/)
+- [Martin Fowler](https://martinfowler.com/tags/)
