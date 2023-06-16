@@ -22,6 +22,9 @@ Additional resources
 - [x] [Managing technical quality in a codebase](https://lethain.com/managing-technical-quality/) *(<cite>Will Larson</cite>)*
 - [x] [Migrations: the sole scalable fix to tech debt](https://lethain.com/migrations/) *(<cite>Will Larson</cite>)*
 - [x] [The Grand Migration](https://lethain.com/grand-migration/) *(<cite>Will Larson</cite>)*
+- [x] [Domain Oriented Observability](https://martinfowler.com/articles/domain-oriented-observability.html) *(<cite>Martin Fowler</cite>)*
+- [x] [Humble Object](https://martinfowler.com/bliki/HumbleObject.html) *(<cite>Martin Fowler</cite>)*
+- [x] [Refinement Code Review](https://martinfowler.com/bliki/RefinementCodeReview.html) *(<cite>Martin Fowler</cite>)*
 
 ## Blogs
 
