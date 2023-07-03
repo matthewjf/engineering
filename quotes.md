@@ -24,3 +24,10 @@
 
 > The purpose of design is to allow you to do design later and its primary goal is to reduce the cost of change.
 > — <cite>Sandi Metz</cite>
+
+> [Prefer vendors for commoditized functionality](https://lethain.com/eng-strategies/)
+> — <cite>Will Larson</cite>
+
+> [You have a problem if the smallest unit of software delivery is a person. That’s a bus factor](https://thenewstack.io/charity-majors-recipe-for-high-performing-teams/)
+> — <cite>Charity Majors</cite>
+
