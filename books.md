@@ -11,6 +11,7 @@
 - [x] Site Reliability Engineering: How Google Runs Production Systems
 - [ ] Transaction Processing: Concepts and Techniques
 - [ ] Tidy First?: A Personal Exercise in Empirical Software Design
+- [ ] Functional Programming, Simplified: (Scala Edition)
 
 ## Organization
 
