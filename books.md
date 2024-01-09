@@ -8,10 +8,10 @@
 - [x] Design Patterns: Elements of Reusable Object-Oriented Software (Erich Gamma, John Vlissides, Richard Helm, Ralph Johnson)
 - [x] The Pragmatic Programmer (Andy Hunt, Dave Thomas)
 - [x] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (Martin Kleppmann)
-- [x] Site Reliability Engineering: How Google Runs Production Systems
-- [ ] Transaction Processing: Concepts and Techniques
-- [ ] Tidy First?: A Personal Exercise in Empirical Software Design
-- [ ] Functional Programming, Simplified: (Scala Edition)
+- [x] Site Reliability Engineering: How Google Runs Production Systems (Jennifer Petoff, Niall Murphy, Betsy Beyer, Chris Jones)
+- [ ] Transaction Processing: Concepts and Techniques (Jim Gray, Andreas Reuter)
+- [ ] Tidy First?: A Personal Exercise in Empirical Software Design (Kent Beck)
+- [ ] Functional Programming, Simplified (Alvin Alexander)
 
 ## Organization
 
