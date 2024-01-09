@@ -10,6 +10,7 @@
 - [x] Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems (Martin Kleppmann)
 - [x] Site Reliability Engineering: How Google Runs Production Systems
 - [ ] Transaction Processing: Concepts and Techniques
+- [ ] Tidy First?: A Personal Exercise in Empirical Software Design
 
 ## Organization
 
