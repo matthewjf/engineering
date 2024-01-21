@@ -14,7 +14,7 @@ A list of seminal papers on distributed systems
 - [ ] [Borg, Omega, and Kubernetes](papers/borg_omega_kubernetes.pdf)
 - [x] [Paxos Made Simple](papers/paxos_made_simple.pdf)
 - [ ] [Spanner: Google’s Globally-Distributed Database](papers/spanner.pdf)
-- [ ] [CAP Twelve Years Later: How the Rules Have Changed](papers/cap_twelve_years_later_how_the_rules_have_changed.pdf)
+- [x] [CAP Twelve Years Later: How the Rules Have Changed](papers/cap_twelve_years_later_how_the_rules_have_changed.pdf)
 
 
 Some additional papers on managing complexity in software
