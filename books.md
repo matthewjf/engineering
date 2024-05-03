@@ -12,6 +12,8 @@
 - [ ] Transaction Processing: Concepts and Techniques (Jim Gray, Andreas Reuter)
 - [ ] Tidy First?: A Personal Exercise in Empirical Software Design (Kent Beck)
 - [ ] Functional Programming, Simplified (Alvin Alexander)
+- [ ] A Philosophy of Software Design (John Ousterhout)
+- [ ] Observability Egineering (Charity Majors)
 
 ## Organization
 
