@@ -14,6 +14,7 @@
 - [ ] Functional Programming, Simplified (Alvin Alexander)
 - [ ] A Philosophy of Software Design (John Ousterhout)
 - [x] Observability Egineering (Charity Majors)
+- [ ] Mostly Adequate Guide to Functional Programming
 
 ## Organization
 
