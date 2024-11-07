@@ -27,6 +27,8 @@ Additional resources
 - [x] [Refinement Code Review](https://martinfowler.com/bliki/RefinementCodeReview.html) *(<cite>Martin Fowler</cite>)*
 - [x] [Staying on the path to high performing teams](https://lethain.com/durably-excellent-teams/) *(<cite>Will Larson</cite>)*
 - [x] [Manage technical quality](https://staffeng.com/guides/manage-technical-quality/) *(<cite>Will Larson</cite>)*
+- [x] [On Code Review](https://medium.com/@9len/on-code-review-16ea85f7c585) *(<cite>Glen Sanford</cite>)*
+
 ## Blogs
 
 - [Irrational Exuberance](https://lethain.com/)
