@@ -1,4 +1,4 @@
-![Ticketmaster](images/ticketmaster.png)
+![Uber](images/uber.png)
 
 # Topics to cover
 - Ticket reservation to prevent failed checkouts
