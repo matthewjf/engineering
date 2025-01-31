@@ -1,16 +1,13 @@
 ![Uber](images/uber.png)
 
 # Topics to cover
-- Ticket reservation to prevent failed checkouts
-  - Store the lock on the DB row with expiration
-  - Distributed locks with TTL (redis)
-- Handle 10M concurrent requests
-  - Read heavy load -> caching
-  - Horizontal scaling
-- High demand events
-  - Waiting queue -> limit concurrent users who can checkout
-- Improve search latency
-  - Dedicated full text search engine like Elasticsearch
-- Frequent searches
-  - Elasticsearch caching
-  - CDN like cloudfront or fastly
+- Frequent drive location updates and proximit searches
+- Ensure location accuracy in the face of high volume
+  - Adaptive location updates
+- Avoid simultaneous ride requests
+  - Distributed lock with TTL (redis)
+- Ensure request requests aren't dropped
+  - Queueing system with horizontal scaling
+  - Required acknowledgements on ride matching
+- Improve performance and throughput
+  - Geographic sharding and read replicas
