@@ -1,7 +1,7 @@
 # Topics to cover
-- Idempotency
+### Idempotency
   - Idempotency keys
-- Ordering
+### Ordering
   - Don't guarantee order
-- Fan out
+### Fan out
   - Separate queues for event stream and webhook requests
