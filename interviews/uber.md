@@ -1,7 +1,9 @@
 ![Uber](images/uber.png)
 
 # Topics to cover
-- Frequent drive location updates and proximit searches
+
+- Frequent drive location updates and proximity searches
+  - In memory geospatial data store (geoshash)
 - Ensure location accuracy in the face of high volume
   - Adaptive location updates
 - Avoid simultaneous ride requests
