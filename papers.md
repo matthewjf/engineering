@@ -15,6 +15,7 @@ A list of seminal papers on distributed systems
 - [x] [Paxos Made Simple](papers/paxos_made_simple.pdf)
 - [ ] [Spanner: Google’s Globally-Distributed Database](papers/spanner.pdf)
 - [x] [CAP Twelve Years Later: How the Rules Have Changed](papers/cap_twelve_years_later_how_the_rules_have_changed.pdf)
+- [ ] [TAO: Facebook’s Distributed Data Store for the Social Graph](papers/tao.pdf)
 
 
 Some additional papers on managing complexity in software
