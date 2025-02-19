@@ -31,3 +31,5 @@
 > [You have a problem if the smallest unit of software delivery is a person. That’s a bus factor](https://thenewstack.io/charity-majors-recipe-for-high-performing-teams/)
 > — <cite>Charity Majors</cite>
 
+> Planning is indispensable, but plans are useless
+> — <cite>Eisenhower</cite>
