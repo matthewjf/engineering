@@ -20,3 +20,5 @@ Not allowed to use full text search engine
 ### Improve on storage footprint
   - Limit number of results in indices
   - Move less frequent keywords to cold storage
+
+[Source](https://www.hellointerview.com/learn/system-design/problem-breakdowns/fb-post-search)

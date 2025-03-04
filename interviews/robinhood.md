@@ -12,3 +12,5 @@
 - Store pending order -> submit to exchange -> update the external order id
 - Background process to handle orders stuck in pending
 - Cancels have a similar flow
+
+[Source](https://www.hellointerview.com/learn/system-design/problem-breakdowns/robinhood)

@@ -16,3 +16,5 @@
 ### Scalability
   - Partition message queue by auction id
   - Shard relational database by auction
+
+[Source](https://www.hellointerview.com/learn/system-design/problem-breakdowns/online-auction)

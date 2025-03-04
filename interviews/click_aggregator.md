@@ -13,3 +13,5 @@
 
 ### Avoid abuse
   - Assign a unique id with signing for verification
+
+[Source](https://www.hellointerview.com/learn/system-design/problem-breakdowns/ad-click-aggregator)

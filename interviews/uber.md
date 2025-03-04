@@ -16,3 +16,5 @@
 
 ### Improve performance and throughput
   - Geographic sharding and read replicas
+
+[Source](https://www.hellointerview.com/learn/system-design/problem-breakdowns/uber)

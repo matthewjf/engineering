@@ -8,3 +8,5 @@
   - Chunk files and track chunk status
 ### Scaling reads and writes
   - Horizontal scaling and caching
+
+[Source](https://www.hellointerview.com/learn/system-design/problem-breakdowns/youtube)

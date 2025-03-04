@@ -15,3 +15,5 @@
   - Encryption in transit and at rest
   - Access control
   - Presigned urls
+
+[Dropbox](https://www.hellointerview.com/learn/system-design/problem-breakdowns/dropbox)

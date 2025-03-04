@@ -22,3 +22,5 @@
 
 ### Node failures
   - Gossip or coordinator (e.g. zookeeper)
+
+[Source](https://www.hellointerview.com/learn/system-design/problem-breakdowns/distributed-cache)

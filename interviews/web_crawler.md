@@ -14,3 +14,5 @@
 ### Identical content
   - Hash the content and store in the DB to check for existence
   - Also could use bloom filters (false positives)
+
+[Source](https://www.hellointerview.com/learn/system-design/problem-breakdowns/web-crawler)

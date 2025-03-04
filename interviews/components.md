@@ -13,6 +13,7 @@
 ## Geospatial data
 - Elasticsearch and Postgres support geospatial indices
 - Elasticsearch and Postgres support geospatial polygon data
+- Index options are Quadtree, Geohash, Google S2
 
 ## Replication
 - Asynchronous replication

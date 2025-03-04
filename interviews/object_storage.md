@@ -26,3 +26,5 @@
 ### Garbage collection
   - Compaction
   - Copy good data to a new file and update the local DB records
+
+[Source](https://github.com/preslavmihaylov/booknotes/tree/master/system-design/system-design-interview/chapter25)

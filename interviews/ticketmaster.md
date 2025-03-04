@@ -18,3 +18,5 @@
 ### Frequent searches
   - Elasticsearch caching
   - CDN like cloudfront or fastly
+
+[Source](https://www.hellointerview.com/learn/system-design/problem-breakdowns/ticketmaster)

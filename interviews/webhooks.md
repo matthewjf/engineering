@@ -10,3 +10,5 @@
   - Don't guarantee order of events
 ### Fan out
   - Separate queues for event stream and webhook delivery
+
+[Source](https://hackernoon.com/how-to-build-a-scalable-webhook-delivery-system-with-kafka-sqs-and-s3)

@@ -14,3 +14,5 @@
 ### Searching by location name
 - Well known data sets with location name to polygons
 - Elasticsearch and Postgres both can deal with this type of geographic polygon data
+
+[Source](https://www.hellointerview.com/learn/system-design/problem-breakdowns/yelp)

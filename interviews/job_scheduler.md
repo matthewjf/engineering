@@ -11,3 +11,5 @@
   - Long running containers or lambdas for workers
 ### At least once execution
   - SQS visibility timeout and idempotency
+
+[Source](https://www.hellointerview.com/learn/system-design/problem-breakdowns/job-scheduler)
