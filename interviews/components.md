@@ -24,7 +24,7 @@
 - Quorum writes
   - R+W>N can guarantee to read your own writes. This can be effective when using a DB like Dynamo.
 
-## Event streams and message queues
+## Event Streams / Message Queues
 - Kafka can do both
   - Kafka doesn't support retries out of the box. SQS supports retries and a dead letter queue. 
 - Kinesis vs SQS
